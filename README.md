@@ -28,7 +28,7 @@
 * Managing react application state with mobx
 
 ##	Tests  
-8 Tests in React with jest (including testing async operations and manually mocking ES6 modules, snapshot testing, enzyme)
+* Tests in React with jest (including testing async operations and manually mocking ES6 modules, snapshot testing, enzyme)
 ## Git & Github
 * Managing projects in git (demonstrated with github)
 
